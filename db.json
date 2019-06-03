@@ -1,8 +1,8 @@
-{ "profiles" : 
+{ "documents" : 
   [
-     { "id" : 1, "name" : "Saugat", "age" : 21 } ,
-     { "id" : 2, "name" : "Random", "age" : 22 } ,
-     { "id" : 3, "name" : "To", "age" : 23 }
+     { "id" : 1, "name" : "INV1122", "status" : "approved" } ,
+     { "id" : 2, "name" : "IR1122", "status" : "approved" } ,
+     { "id" : 3, "name" : "ORD1122", "status" : "unapproved" }
   ]
 }
     
